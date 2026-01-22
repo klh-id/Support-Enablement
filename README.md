@@ -1,10 +1,13 @@
-# Support Learning: Onboarding, Everboarding, and Release Readiness
+# GitHub Support Enablement
 
-> A product-centric approach to building scalable support readiness at GitHub.
+_Onboarding, everboarding, and release readiness: A product-centric approach to building scalable support readiness at GitHub._
 
 ## TL;DR
 
-This document outlines how I would ramp into Support Learning, learn the product and support environment deeply, and then build a clear, maintainable learning structure for support engineers. My focus would be on understanding the work first, defining role-based skills second, and then designing onboarding, everboarding, and release readiness enablement that is grounded in real support needs. My approach treats enablement as a product in its own right: identify real problems (skills gaps), define measurable outcomes, iteratively deliver solutions, and validate impact.
+> [!NOTE]
+> Live slide deck: https://klh-id.github.io/Support-Enablement/
+
+This document outlines how I would approach my onboarding journey at GitHub. My focus would be on understanding the work first, defining role-based skills second, and then designing onboarding, everboarding, and release readiness enablement that is grounded in real support needs. My approach treats enablement as a product in its own right: identify real problems (skills gaps), define measurable outcomes, iteratively deliver solutions, and validate impact.
 
 The first tangible outcome would be a release readiness enablement package designed to help engineers understand upcoming changes, find answers quickly, and validate readiness.
 
