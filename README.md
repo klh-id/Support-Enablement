@@ -1,15 +1,15 @@
 # GitHub Support Enablement
 
-_Onboarding, everboarding, and release readiness: A product-centric approach to building scalable support readiness at GitHub._
+_Onboarding, everboarding, and continuous readiness: A product-centric approach to scalable support enablement at GitHub._
 
 ## TL;DR
 
 > [!NOTE]
 > Live slide deck: https://klh-id.github.io/Support-Enablement/
 
-This document outlines how I would approach my onboarding journey at GitHub. My focus would be on understanding the work first, defining role-based skills second, and then designing onboarding, everboarding, and release readiness enablement that is grounded in real support needs. My approach treats enablement as a product in its own right: identify real problems (skills gaps), define measurable outcomes, iteratively deliver solutions, and validate impact.
+This document outlines how I would approach my onboarding journey at GitHub. My focus would be on understanding the work first, defining role-based skills second, and then designing onboarding, everboarding, and continuous readiness enablement that is grounded in real support needs. My approach treats enablement as a product in its own right: identify real problems (skills gaps), define measurable outcomes, iteratively deliver solutions, and validate impact.
 
-The first tangible outcome would be a release readiness enablement package designed to help engineers understand upcoming changes, find answers quickly, and validate readiness.
+The first tangible outcome would be a lightweight, repeatable readiness pattern that helps support engineers stay oriented as changes ship, find answers quickly, and validate understanding.
 
 ## Why this README exists
 
@@ -31,81 +31,91 @@ When building content, I follow an **adopt, adapt, create** model. I first look 
 
 I also design content with longevity in mind. Time-intensive formats like live training or video are reserved for evergreen concepts, while fast-changing information is delivered through written guides, labs, or knowledge base entries that are easy to update. When UI walkthroughs are helpful, I use lightweight AI-assisted tools to create and refresh them quickly.
 
+## Enablement in a continuous delivery environment
+
+GitHub evolves continuously, so enablement needs to do the same. I would design enablement to align with how change already flows through GitHub: releases, documentation updates, and evolving workflows.
+
+My goal would not be to introduce new processes, but to leverage existing GitHub-native processes so enablement stays close to the source of truth and requires less manual coordination. This keeps learning lightweight, asynchronous, and easier to sustain over time.
+
+## Enablement considerations unique to Support
+
+Support enablement requires a broader and deeper skill mix than many technical roles. Support engineers must understand how the product should work, how to troubleshoot when it doesn’t, and how to make good decisions under uncertainty. They also serve as a primary touchpoint for customers, which means every interaction reflects GitHub’s brand, values, and quality bar.
+
+Because of this, effective enablement develops four overlapping skill areas:
+
+* Product knowledge: deep understanding of expected behavior, edge cases, and known limitations
+* Problem solving and judgment: diagnosing issues, testing hypotheses, and knowing when to escalate
+* Resource fluency: quickly finding, validating, and applying the right documentation or internal knowledge
+* Communication and brand representation: explaining complex ideas clearly, empathetically, and in a way that reflects GitHub’s voice
+
+Effective support enablement blends technical depth, decision-making practice, and communication skills so engineers can help customers even when answers aren’t obvious.
+
 ## The three learning flows
 
-Rather than treating enablement as a single program, I think in terms of three recurring flows that together cover the full support engineer lifecycle. These flows share the same skill framework and content library but serve different moments of need.
+Rather than treating enablement as a single program, I think in terms of three complementary flows that together cover the full support engineer lifecycle. These flows share the same skill framework and content library but serve different moments of need.
 
 ### 🌱 Onboarding
 
-Onboarding is focused on helping new support engineers become effective as quickly and confidently as possible. The work here is about clarity and structure rather than volume.
+Onboarding focuses on helping new support engineers become effective quickly and confidently. The emphasis is on clarity, sequencing, and practice rather than volume.
 
-Key elements:
-
-* Clear skill expectations for the first 30/60/90 days
-* Curated learning paths mapped to those skills
-* Practice with realistic scenarios before handling complex tickets
-* Lightweight readiness checks to confirm progress
+Key elements include clear skill expectations for the first 30/60/90 days, curated learning paths, realistic practice scenarios, and informal assessments to confirm progress.
 
 ### 🔄 Everboarding
 
-Everboarding supports engineers as products, workflows, and AI capabilities evolve. This is how engineers stay aligned with changing product and support realities.
+Everboarding focuses on sustained skill development as products, workflows, and tools evolve. It addresses deeper capability gaps that emerge over time, informed by support trends and recurring questions.
 
-Key elements:
+This is where engineers refine mental models, adopt new workflows, and strengthen judgment in complex or ambiguous cases.
 
-* Skill refresh and validation
-* New workflow and AI adoption
-* Peer-generated content from experienced engineers
-* Targeted learning tied to observed support trends
+### 🚀 Continuous readiness
 
-### 🚀 Release readiness
+Continuous readiness provides a lightweight awareness layer that helps engineers understand what just changed, why it matters, and where to look for answers. It is designed to reduce surprise and uncertainty without requiring full retraining for every update.
 
-Release readiness connects learning directly to product change. This is about providing a coherent view of product changes, their implications for support, and practical guidance to maintain high performance..
+Rather than a single event, readiness becomes a repeatable motion that aligns with how GitHub ships.
 
-Key elements:
+## First 30 days: learn the work, the product, and how change ships
 
-* What’s changing and why it matters
-* Where to find updated answers quickly
-* Scenario-based guidance for new behaviors
-* A simple knowledge check to validate readiness
+In the first month, my focus would be on understanding how support engineers actually do their work at GitHub and how product change flows through the organization.
 
-## First 30 days: learn and build context
+I would spend time shadowing support engineers across tiers, reviewing common ticket types, and observing moments of friction, uncertainty, or escalation. In parallel, I would focus on my own product enablement — learning GitHub, internal tools, and how teams ship, document, and communicate product changes.
 
-In the first month, my priority would be to understand the work of support engineers and to upskill myself on GitHub so that I can design learning from a place of real context.
+This includes building context around:
 
-I would spend time shadowing support engineers across tiers, reviewing common ticket types, and understanding where engineers feel friction or uncertainty. In parallel, I would focus on my own product enablement, expanding my knowledge of GitHub and learning existing internal tools so I can speak the same technical language as the teams I’m supporting.
+* how product changes are deployed and surfaced internally
+* how documentation and the Changelog are updated
+* where support engineers currently discover change
+* which changes create the most downstream impact for support
 
 By the end of the first 30 days, I would expect to have:
 
-* A clear picture of support roles, responsibilities, and workflows
-* An understanding of current learning assets and gaps
-* Baseline knowledge of key metrics (ramp time, TTR, escalations, CSAT)
-* Early hypotheses about where learning could most reduce friction
+* a clear understanding of support workflows and roles
+* visibility into existing learning assets and how they’re used
+* baseline knowledge of key metrics (ramp time, TTR, escalations, CSAT)
+* early hypotheses about where enablement could reduce friction or cognitive load
 
-## Days 31–60: define skills, curate resources, and plan delivery
+## Days 31–60: define role-based skills and map existing enablement
 
-Once I understand the environment, the next step would be to define what *good* looks like for each support role.
+With foundational context in place, the next phase would focus on defining what “good” looks like for each support tier and mapping learning to real work.
 
-I would work with Support leaders and experienced engineers to map the skills required for different support tiers. From there, I would curate existing documentation, knowledge base articles, labs, and learning resources that already support those skills, and clearly identify where gaps exist.
+I would partner with support leaders and experienced engineers to draft a role-based skill map that includes not only product knowledge, but troubleshooting, judgment, and communication skills. I would then map existing documentation, knowledge base articles, labs, and training resources to those skills to understand where learning already exists and where gaps remain.
 
-This results in two concrete outputs:
+By the end of 60 days, I would expect to have:
 
-* A role-based skill map for support engineers
-* A curated content library mapped to those skills
+* a draft skill model grounded in real support workflows
+* a mapped view of existing learning resources
+* identified high-friction gaps worth addressing first
+* shared alignment with support leaders on priorities
 
-At that point, I would create a delivery plan that separates work into onboarding and everboarding tracks, with clear sequencing and ownership. This is also when I would plan the first release readiness deliverable, using the skills map as the foundation rather than starting from scratch.
+## Days 61–90: validate gaps and define the enablement roadmap
 
-## Days 61–90: deliver release readiness and establish patterns
+In the final phase, I would validate the skill and content maps through real support scenarios, ticket reviews, and engineer feedback to ensure they reflect day-to-day needs. My goal would be to leave the first 90 days with an actionable roadmap** for enablement.
 
-The first major visible deliverable would be a **release readiness enablement package for all support engineers** aligned to an upcoming product release.
+By the end of this phase, I would expect to deliver:
 
-Rather than focusing on a single feature, this package would cover:
-
-* What’s changing across the release
-* Which changes matter to which support tiers
-* Where to find updated documentation and answers
-* How to practice or validate readiness
-
-This would include a lightweight knowledge check to confirm readiness. At the same time, I would document patterns and templates so release readiness becomes a repeatable motion rather than a one-off effort.
+* a validated role-based skill map for support engineers
+* a content map showing coverage, gaps, and duplication
+* a prioritized list of enablement opportunities
+* a proposed phased roadmap for onboarding, everboarding, and continuous readiness
+* recommendations for when (and how) to introduce a centralized enablement hub
 
 ## Using AI thoughtfully
 
