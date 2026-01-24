@@ -9,8 +9,6 @@ _Onboarding, everboarding, and continuous readiness: A product-centric approach 
 
 This document outlines how I would approach my onboarding journey at GitHub. My focus would be on understanding the work first, defining role-based skills second, and then designing onboarding, everboarding, and continuous readiness enablement that is grounded in real support needs. My approach treats enablement as a product in its own right: identify real problems (skills gaps), define measurable outcomes, iteratively deliver solutions, and validate impact.
 
-The first tangible outcome would be a lightweight, repeatable readiness pattern that helps support engineers stay oriented as changes ship, find answers quickly, and validate understanding.
-
 ## Why this README exists
 
 This is meant to show how I think about technical enablement, how I ramp into a new organization, and how I would sequence meaningful impact without rushing to solutions. It is intentionally written as a working document, not a finished strategy. The goal is to demonstrate judgment, structure, and approach rather than to prescribe outcomes before learning.
