@@ -125,14 +125,22 @@ The goal is not to automate learning, but to make high-quality learning easier t
 
 Learning only matters if it changes outcomes. Early on, I would focus on understanding existing metrics such as time to resolution, onboarding ramp time, escalation rates, and customer satisfaction.
 
-As the enablement program matures, I would expect to see reduced ramp time for new engineers, faster resolution for common issues, fewer escalations after releases, and improved CSAT. I woul also track system health metrics like content freshness and update cycle time to ensure learning stays sustainable.
+As the enablement program matures, I would expect to see reduced ramp time for new engineers, faster resolution for common issues, fewer escalations after releases, and improved CSAT. I would also track system health metrics like content freshness and update cycle time to ensure learning stays sustainable.
 
 ## What I would focus on in the first year
 
-After validating the release readiness pilot, I would focus on refreshing onboarding with clear skill milestones, establishing a lightweight readiness or certification model, and building a just-in-time knowledge library that support engineers can rely on in the flow of work. Over time, I would deepen partnerships with Product and Engineering so learning is consistently built into how changes ship.
+After completing the skill and content maps in the first 90 days, I would focus on gradually building scalable enablement programs that are grounded in real support needs:
+
+* Content gap remediation: Develop enablement materials guided by the roadmap created in the first 90 days, ensuring missing knowledge and high-friction areas are addressed efficiently.
+* Onboarding: Create role-based learning paths for each support tier, incorporating realistic practice scenarios and informal readiness checks.
+* Everboarding: Implement ongoing skill refreshes and peer-generated learning to keep engineers aligned as products, workflows, and AI tools evolve.
+* Continuous readiness: Build lightweight, repeatable ways for engineers to stay aware of product changes, using GitHub-native tools and processes.
+* Measurement and iteration: Continuously evaluate whether the skill model reflects what engineers need, track enablement outcomes, and adjust programs accordingly.
+* Collaboration with Product and Engineering: Embed learning into how changes ship and communicate, making enablement a natural part of GitHub workflows.
 
 ## Open questions
 
-* Where do support leaders feel the most pain today?
-* How do different support tiers define readiness?
-* What metrics matter most right now?
+* Where do support leaders see the biggest gaps in skills or knowledge today?
+* How do different support tiers stay aligned with product changes?
+* How is change currently communicated internally, and where could learning better integrate?
+* What metrics matter most for evaluating enablement impact?
